@@ -1,4 +1,4 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/narenvivek/docker-fundamentals/badge.svg)](https://snyk.io/test/github/narenvivek/docker-fundamentals)
+[![Known Vulnerabilities](https://app.snyk.io/org/narenvivek/project/4800e5ab-d969-41e9-9158-49c65217af0d/badge.svg)](https://app.snyk.io/org/narenvivek/project/4800e5ab-d969-41e9-9158-49c65217af0d)
 
 # Docker Fundamentals
 
