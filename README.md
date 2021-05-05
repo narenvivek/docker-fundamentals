@@ -1,3 +1,5 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/narenvivek/docker-fundamentals/badge.svg)](https://snyk.io/test/github/narenvivek/docker-fundamentals)
+
 # Docker Fundamentals
 
 ## What is covered as part of Docker Fundamentals?
